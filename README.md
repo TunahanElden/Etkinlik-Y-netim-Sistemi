@@ -1,0 +1,1 @@
+# Etkinlik-Y-netim-Sistemi
