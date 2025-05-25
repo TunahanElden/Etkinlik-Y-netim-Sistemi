@@ -1,1 +1,1 @@
-# Etkinlik-Y-netim-Sistemi
+# Etkinlik-Yonetim-Sistemi
